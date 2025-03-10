@@ -28,38 +28,37 @@ This project is a **Verbal Communication Skills Trainer** built using **Streamli
 git clone https://github.com/your-repo/verbal-communication-trainer.git
 cd verbal-communication-trainer
 ```
-###2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-###3️⃣ Set Up Environment Variables
+### 3️⃣ Set Up Environment Variables
 
 Create a .env file and add your Azure OpenAI API key:
 
 GITHUB_TOKEN=your_azure_openai_api_key_here
 
-###4️⃣ Run the Application
+### 4️⃣ Run the Application
 ```bash
 streamlit run app.py
 ```
-##Usage Guide
+## Usage Guide
 
--Chat with AI Coach: Enter a message and get structured feedback.
+- Chat with AI Coach: Enter a message and get structured feedback.
 
--Voice Input Analysis: Upload a .wav file to receive AI feedback.
+- Voice Input Analysis: Upload a .wav file to receive AI feedback.
 
--Skill Training: Select an activity, enter a response, and receive AI feedback.
+- Skill Training: Select an activity, enter a response, and receive AI feedback.
 
--Presentation Assessment: Paste a presentation script for analysis.
+- Presentation Assessment: Paste a presentation script for analysis.
 
--View Progress: Review stored responses and feedback.
+- View Progress: Review stored responses and feedback.
 
-##Example Prompts
+## Example Prompts
 
 - "How can I sound more confident in my speech?"
 - "Analyze my storytelling: Once upon a time, a boy found a mysterious map…"
 - "Evaluate my impromptu speaking: Why is teamwork important?"
 
 
-Advanced sentiment analysis for emotional feedback.
 
