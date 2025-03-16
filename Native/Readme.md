@@ -57,8 +57,7 @@ pip install torch torchvision torchaudio transformers whisper TTS streamlit
 ```
 - Step 4: Authenticate with Hugging Face
 
-```bash huggingface-cli login
-```
+```bash huggingface-cli login```
 Note: The Meta LLaMA models are gated, so you must accept their terms on Hugging Face before using them.
 
 - Step 5: Run the Application
