@@ -32,7 +32,7 @@ This project is a Verbal Communication Skills Trainer that helps users enhance t
 
 - Backend: Hugging Face Transformers, PyTorch
 ## Methodology 
-![Methodology](methodologyjpg)
+![](methodologyjpg)
 
 ### Installation
 
