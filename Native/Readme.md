@@ -126,3 +126,5 @@ It requires above 130 gb CPU storage, but I am lacking with that.
 I also can't do it through Google Colab
 Trying using small models
 
+### Loom video
+https://drive.google.com/drive/folders/1y7i8lC8y_Gb4l7d2HdXQysRhSCGxV1Nk?usp=sharing
