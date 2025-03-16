@@ -60,5 +60,7 @@ streamlit run app.py
 - "Analyze my storytelling: Once upon a time, a boy found a mysterious map…"
 - "Evaluate my impromptu speaking: Why is teamwork important?"
 
+### Loom video
+https://drive.google.com/drive/folders/1a8U6rbuChp2Dtp9jZlRtXyIRictZReCV?usp=sharing
 
 
