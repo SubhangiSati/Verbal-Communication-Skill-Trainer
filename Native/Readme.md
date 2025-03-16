@@ -31,6 +31,8 @@ This project is a Verbal Communication Skills Trainer that helps users enhance t
 - UI Framework: Streamlit
 
 - Backend: Hugging Face Transformers, PyTorch
+## Methodology 
+![Methodology](methodologyjpg)
 
 ### Installation
 
